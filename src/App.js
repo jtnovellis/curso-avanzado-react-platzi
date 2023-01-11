@@ -1,5 +1,7 @@
 import React from 'react'
 
-export const App = () => {
+const App = () => {
   return <div>Curso de react</div>
 }
+
+export default App
