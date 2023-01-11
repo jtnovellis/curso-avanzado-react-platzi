@@ -1,7 +1,6 @@
 import React from 'react'
+import { Category } from './components/Category'
 
-const App = () => {
-  return <div>Curso de react</div>
+export const App = () => {
+  return <Category />
 }
-
-export default App
